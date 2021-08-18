@@ -1,0 +1,16 @@
+@ charset "utf-8"
+
+div{
+    height: 100px;
+    background-color:#d9e021;
+}
+p{
+    width:70%;
+    height:50px;
+    background-color:#f9b9d5;
+    text-align: center;
+}
+span{
+    border:1px dotted #f9b9d5;
+    font-familiy:serif;
+}
